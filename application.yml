@@ -9,7 +9,7 @@ spring:
     name: microservicecloud-config-nanhua-dev 
 ---
 spring:
-  profies: dev
+  profies: test
   application:
     name: microservicecloud-config-nanhua-test
 # 请保存为utf-8格式
