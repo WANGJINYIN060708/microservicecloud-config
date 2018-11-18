@@ -1,0 +1,15 @@
+﻿spring:
+  profiles:
+    active:
+    - dev
+---
+spring:
+  profies: dev
+  application:
+    name: microservicecloud-config-nanhua-dev 
+---
+spring:
+  profies: dev
+  application:
+    name: microservicecloud-config-nanhua-test
+# 请保存为utf-8格式
